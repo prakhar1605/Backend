@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A backend project",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "homepage": "https://github.com/prakhar1605/backend#readme",
+  "bugs": {
+    "url": "https://github.com/prakhar1605/backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakhar1605/backend.git"
+  },
+  "license": "ISC",
+  "author": "Prakhar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
