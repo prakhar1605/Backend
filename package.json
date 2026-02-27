@@ -2,6 +2,7 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "A backend project",
+  "type": "commonjs",
   "keywords": [
     "javascript",
     "backend"
@@ -16,9 +17,11 @@
   },
   "license": "ISC",
   "author": "Prakhar",
-  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
   }
 }
